@@ -37,6 +37,13 @@ The Student Management System is a CRUD application that helps manage student re
 3. Update the API endpoint in the frontend code if necessary.
 4. Run `npm start` to launch the React application.
 
+#### Screenshots:
+![Screenshot 2024-01-08 124343](https://github.com/amarsarkar007/Student-Management-Application/assets/84258170/981febd6-1669-4993-9117-bc1f059b6821)
+
+![Screenshot 2024-01-08 124447](https://github.com/amarsarkar007/Student-Management-Application/assets/84258170/d726bb70-5dc8-480a-817e-016e91dd29bf)
+![Screenshot 2024-01-08 125122](https://github.com/amarsarkar007/Student-Management-Application/assets/84258170/683363b0-3ad0-4365-9a1c-a224c0e5b5e2)
+
+
 ## Usage
 1. Open the application in your web browser.
 2. Use the navigation to perform various actions like adding, viewing, updating, and deleting students.
